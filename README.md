@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farazi</h1>
 <h3 align="center">Software engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nurfarazi&label=Profile%20views&color=0e75b6&style=flat" alt="nurfarazi" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=nurfarazi&label=Profile%20views&color=0e75b6&style=flat" alt="nurfarazi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurfarazi" alt="nurfarazi" /></a> </p>
 
