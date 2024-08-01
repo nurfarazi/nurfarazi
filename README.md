@@ -132,3 +132,8 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurfarazi&" alt="nurfarazi" />
 </p>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
