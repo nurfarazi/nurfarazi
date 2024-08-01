@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **.Net Framework**
+- 🔭 I’m currently working on **.Net**
 - 🌱 I’m currently learning **C#, Angular, System design**
 - 📝 I regularly write articles on [Medium](https://medium.com/@nur369188)
 - 💬 Ask me about **C#, System design, Angular**
