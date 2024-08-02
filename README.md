@@ -113,13 +113,14 @@
   </a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/nurfarazi">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
-  </a>
-</p>
-<br><br>
+## 📈 GitHub Contribution Graph:
+
+<div align="center">
+    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=nurfarazi&theme=minimal" alt="img"/>
+</div>
+<br>
+
+<br>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurfarazi&show_icons=true&locale=en&layout=compact" alt="nurfarazi" />
