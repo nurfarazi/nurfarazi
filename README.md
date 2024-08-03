@@ -25,6 +25,13 @@
   </a>
 </p>
 
+## 📈 GitHub Contribution Graph:
+
+<div align="center">
+    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=nurfarazi&theme=github-compact" alt="img"/>
+</div>
+<br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -105,20 +112,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-  </a>
 </p>
-
-## 📈 GitHub Contribution Graph:
-
-<div align="center">
-    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=nurfarazi&theme=github-compact&days=90" alt="img"/>
-</div>
-<br>
 
 <br>
 
