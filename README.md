@@ -18,12 +18,13 @@
 - 📫 How to reach me **nur369188@gmail.com**
 - ⚡ Fun fact **I code**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/nurfarazi/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+<table width="100" align='center'>
+<tr>
+    <td align='center' width="80">
+        <a href="https://www.linkedin.com/in/nurfarazi"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="80"></a>
+    </td>
+</tr>
+</table>
 
 ## 📈 GitHub Contribution Graph:
 
