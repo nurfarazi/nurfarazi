@@ -28,7 +28,7 @@
 ## 📈 GitHub Contribution Graph:
 
 <div align="center">
-    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=nurfarazi&theme=github-compact" alt="img"/>
+    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=nurfarazi&theme=github-compact&hide_border=true" alt="img"/>
 </div>
 <br>
 
