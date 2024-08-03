@@ -41,10 +41,10 @@
         <img src="https://w7.pngwing.com/pngs/636/405/png-transparent-net-core-thumbnail.png" width="65">
     </td>
     <td align='center'  height="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="65">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="65">
     </td>
     <td align='center'  height="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="65">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="65">
     </td>
 </tr>
 </table>
