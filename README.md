@@ -122,15 +122,15 @@
 
 <br>
 
-<p>
+<div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurfarazi&show_icons=true&locale=en&layout=compact" alt="nurfarazi" />
-</p>
+</div>
 
-<p>
+<p align="center">
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurfarazi&show_icons=true&locale=en" alt="nurfarazi" />
 </p>
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurfarazi&" alt="nurfarazi" />
 </p>
 
