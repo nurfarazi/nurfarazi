@@ -18,6 +18,18 @@
 - 📫 How to reach me **nur369188@gmail.com**
 - ⚡ Fun fact **I code**
 
+## Featured Repositories
+
+<p align="center">
+<a href="https://github.com/nurfarazi/nurfarazi">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=nurfarazi&repo=Organic-Shop-MicroServices&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/shahriarshafin/NodeMcu-ESP8266_Fake_sign_in">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=nurfarazi&repo=design-patterns&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
+
 <table width="100" align='center'>
 <tr>
     <td align='center' width="80">
@@ -26,11 +38,6 @@
 </tr>
 </table>
 
-## 📈 GitHub Contribution Graph:
-
-<div align="center">
-    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=nurfarazi&theme=github-compact&hide_border=true" alt="img"/>
-</div>
 <br>
 
 <h2 align="center">🧑‍💻<i>Tech Stack </i></h2>
@@ -51,19 +58,12 @@
 
 <br>
 
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurfarazi&show_icons=true&locale=en&layout=compact" alt="nurfarazi" />
-</div>
-
-<p align="center">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurfarazi&show_icons=true&locale=en" alt="nurfarazi" />
-</p>
-
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurfarazi&" alt="nurfarazi" />
 </p>
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+## 📈 GitHub Contribution Graph:
 
+<div align="center">
+    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=nurfarazi&theme=github-compact&hide_border=true" alt="img"/>
+</div>
