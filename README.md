@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=nurfarazi&label=Profile%20views&color=0e75b6&style=flat" alt="nurfarazi" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nurfarazi" alt="nurfarazi" />
-  </a>
-</p>
-
 - 🔭 I’m currently working on **.Net & Node.js**
 - 🌱 I’m currently learning **C#, Angular, Node.js, TypeScript, System design**
 - 📝 I regularly write articles on [Medium](https://medium.com/@nur369188)
@@ -19,16 +13,6 @@
 - ⚡ Fun fact **I code**
 
 ## Featured Repositories
-
-<p align="center">
-<a href="https://github.com/nurfarazi/Organic-Shop-MicroServices">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=nurfarazi&repo=Organic-Shop-MicroServices&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/nurfarazi/design-patterns">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=nurfarazi&repo=design-patterns&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
 
 <table width="100" align='center'>
 <tr>
