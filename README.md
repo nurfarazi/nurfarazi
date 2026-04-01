@@ -53,6 +53,9 @@
     <td align='center'  height="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="65">
     </td>
+  <td align='center' height="100">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65">
+  </td>
 </tr>
 </table>
 
