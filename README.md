@@ -11,10 +11,10 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **.Net**
-- 🌱 I’m currently learning **C#, Angular, System design**
+- 🔭 I’m currently working on **.Net & Node.js**
+- 🌱 I’m currently learning **C#, Angular, Node.js, TypeScript, System design**
 - 📝 I regularly write articles on [Medium](https://medium.com/@nur369188)
-- 💬 Ask me about **C#, System design, Angular**
+- 💬 Ask me about **C#, Angular, Node.js, TypeScript, System design**
 - 📫 How to reach me **nur369188@gmail.com**
 - ⚡ Fun fact **I code**
 
@@ -55,6 +55,9 @@
     </td>
   <td align='center' height="100">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65">
+  </td>
+  <td align='center' height="100">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="65">
   </td>
 </tr>
 </table>
